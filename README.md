@@ -1,5 +1,5 @@
 # Bank
-Simulation of a simple bank
+Simulation of a simple bank in java
 
 User interface: javafx
 
