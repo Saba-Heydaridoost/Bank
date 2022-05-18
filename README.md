@@ -1,5 +1,6 @@
 # Bank
 Simulation of a simple bank
+
 User interface: javafx
 Properties:
 1. It has different accessibilities: admin, manager, employee and client
